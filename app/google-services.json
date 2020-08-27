@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510760899212",
+    "firebase_url": "https://ejemplo-login-con-firebase.firebaseio.com",
+    "project_id": "ejemplo-login-con-firebase",
+    "storage_bucket": "ejemplo-login-con-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510760899212:android:0655bfadacccc29f4ae1a9",
+        "android_client_info": {
+          "package_name": "cl.talentodigital.ejemplologinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510760899212-mvuggcpv64jc0jpg0org05gp7eqmvsdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS2jnjXi_Fy00wFQnmJ5yl81NntimJ49c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510760899212-mvuggcpv64jc0jpg0org05gp7eqmvsdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

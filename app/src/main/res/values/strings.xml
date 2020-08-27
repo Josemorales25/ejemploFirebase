@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EjemploLoginFirebase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingrese_email">Ingrese Email</string>
+    <string name="ingrese_contrase_a">ingrese contraseña</string>
+    <string name="ingrese_pass">ingrese pass</string>
+    <string name="ingrese_contrase_a">ingrese contraseña</string>
+    <string name="registro">registro</string>
+    <string name="ingresar">ingresar</string>
+    />
+</resources>
