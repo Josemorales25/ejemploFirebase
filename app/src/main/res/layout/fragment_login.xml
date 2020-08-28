@@ -25,7 +25,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="68dp"
         android:layout_marginEnd="20dp"
-        android:contentDescription="@string/ingrese_contrasena"
+        android:contentDescription="ingrese contrasena"
         android:hint="@string/ingrese_pass"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
